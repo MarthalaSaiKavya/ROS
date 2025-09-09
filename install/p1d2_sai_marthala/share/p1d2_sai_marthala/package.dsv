@@ -1,0 +1,6 @@
+source;share/p1d2_sai_marthala/hook/pythonpath.ps1
+source;share/p1d2_sai_marthala/hook/pythonpath.dsv
+source;share/p1d2_sai_marthala/hook/pythonpath.sh
+source;share/p1d2_sai_marthala/hook/ament_prefix_path.ps1
+source;share/p1d2_sai_marthala/hook/ament_prefix_path.dsv
+source;share/p1d2_sai_marthala/hook/ament_prefix_path.sh

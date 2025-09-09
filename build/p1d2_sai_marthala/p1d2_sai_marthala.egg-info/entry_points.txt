@@ -1,0 +1,2 @@
+[console_scripts]
+draw_n = p1d2_sai_marthala.n_drawer:main

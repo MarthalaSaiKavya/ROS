@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>p1d2_sai_marthala</name>
+  <version>0.0.1</version>
+  <description>Draw "N" in turtlesim with closed-loop control.</description>
+
+  <maintainer email="smartha2@ncsu.edu">Sai Kavya Marthala</maintainer>
+  <license>BSD-3-Clause</license>
+
+  <!-- Dependencies -->
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>turtlesim</depend>
+
+  <!-- ✅ This tells colcon that this is ament_python package -->
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
+
+

@@ -1,0 +1,19 @@
+running egg_info
+writing ../../build/p1d2_sai_marthala/p1d2_sai_marthala.egg-info/PKG-INFO
+writing dependency_links to ../../build/p1d2_sai_marthala/p1d2_sai_marthala.egg-info/dependency_links.txt
+writing entry points to ../../build/p1d2_sai_marthala/p1d2_sai_marthala.egg-info/entry_points.txt
+writing requirements to ../../build/p1d2_sai_marthala/p1d2_sai_marthala.egg-info/requires.txt
+writing top-level names to ../../build/p1d2_sai_marthala/p1d2_sai_marthala.egg-info/top_level.txt
+reading manifest file '../../build/p1d2_sai_marthala/p1d2_sai_marthala.egg-info/SOURCES.txt'
+writing manifest file '../../build/p1d2_sai_marthala/p1d2_sai_marthala.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/sai/ros2_ws/install/p1d2_sai_marthala/lib/python3.12/site-packages/p1d2_sai_marthala-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/p1d2_sai_marthala/p1d2_sai_marthala.egg-info to /home/sai/ros2_ws/install/p1d2_sai_marthala/lib/python3.12/site-packages/p1d2_sai_marthala-0.0.0-py3.12.egg-info
+running install_scripts
+Installing draw_n script to /home/sai/ros2_ws/install/p1d2_sai_marthala/lib/p1d2_sai_marthala
+writing list of installed files to '/home/sai/ros2_ws/build/p1d2_sai_marthala/install.log'
